@@ -281,6 +281,11 @@ nav a {
   height: auto;
 }
 
+.tegnet_portræt {
+  width: 30%;
+  padding-bottom: 5%;
+}
+
 .stregkode_effekt {
   animation: roll 0.5s ease-in-out infinite;
 }
