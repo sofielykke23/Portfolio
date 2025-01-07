@@ -31,14 +31,14 @@ a {
 .stibletlinje {
   border: none;
   border-top: 1.5px dashed white;
-  width: 100%;
+  width: 85%;
   margin-top: 5%;
 }
 
 .stibletlinje2 {
   border: none;
   border-top: 1.5px dashed white;
-  width: 100%;
+  width: 85%;
   margin-top: 0.1%;
   margin-bottom: 0.5%;
 }
@@ -46,9 +46,9 @@ a {
 .stibletlinje2footer {
   border: none;
   border-top: 1.5px dashed white;
-  width: 100%;
+  width: 85%;
   margin-top: 0.1%;
-  margin-bottom: 1%;
+  margin-bottom: 5%;
 }
 
 .tekstpåblå {
@@ -267,7 +267,7 @@ nav a {
   font-family: anton;
   font-size: 400%;
   padding-bottom: 1%;
-  padding-top: 8%;
+  padding-top: 5%;
 }
 
 .menu {
@@ -379,7 +379,7 @@ nav a {
 .stibletlinjefooter {
   border: none;
   border-top: 1.5px dashed white;
-  width: 100%;
+  width: 85%;
   margin-top: 10%;
 }
 
@@ -399,7 +399,7 @@ nav a {
   .stibletlinje {
     border: none;
     border-top: 1.5px dashed white;
-    width: 100%;
+    width: 85%;
     margin-top: 2%;
   }
   #stregkode_forside {
@@ -545,6 +545,11 @@ nav a {
 
   .stibletlinjefooter {
     margin-top: 5%;
+    width: 85%;
+  }
+
+  .stibletlinje2footer {
+    margin-bottom: 3%;
   }
 }
 
@@ -573,12 +578,16 @@ nav a {
   .stibletlinje {
     border: none;
     border-top: 1.5px dashed white;
-    width: 100%;
+    width: 85%;
     margin-top: 3%;
   }
 
   .footer {
     font-size: 80%;
+  }
+
+  .stibletlinje2footer {
+    margin-bottom: 4%;
   }
 
   .kvittering_container1 {
@@ -741,6 +750,10 @@ nav a {
 
   .stregkodetekst {
     font-size: 90%;
+  }
+
+  .footerp {
+    font-size: 60%;
   }
 }
 
